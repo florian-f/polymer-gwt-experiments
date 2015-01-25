@@ -1,6 +1,11 @@
 <ui:UiBinder xmlns:ui='urn:ui:com.google.gwt.uibinder'
     xmlns:g='urn:import:com.google.gwt.user.client.ui'>
   <g:HTMLPanel>
-    <paper-button>Hello Polymer</paper-button>
+    <paper-button raised="">
+        <link rel="import" href="bower_components/core-icons/core-icons.html"></link>
+        <link rel="import" href="bower_components/core-icon/core-icon.html"></link>
+        <core-icon icon="favorite"></core-icon>
+            Hello Polymer
+        </paper-button>
   </g:HTMLPanel>
 </ui:UiBinder>
