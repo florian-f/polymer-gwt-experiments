@@ -1,3 +1,5 @@
+UPDATE: Chris posted the code for the examples in his talk, so you can just head over there: https://github.com/cdigiano/polymergwt
+
 # polymer-gwt-experiments
 
 This is a minimal sample gwt app that uses polymer.
